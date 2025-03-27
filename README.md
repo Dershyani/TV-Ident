@@ -1,16 +1,16 @@
 # 3D Gasket TV Ident Animation
 
 <a href="https://Dershyani.github.io/TV-Ident/" target="_blank">
-  <img src="FrontReadme.png" alt="Preview of 3D Gasket TV Ident Animation" width="1200px" style="cursor: pointer;" />
+  <img src="PicReadme.png" alt="Preview of 3D Gasket TV Ident Animation" width="1200px" style="cursor: pointer;" />
 </a>
 
 Click on the image above to visit the project.
 
-## Project Overview:
+## Project Overview
 
 The **3D Gasket TV Ident Animation** showcases interactive 3D transformations of a gasket shape, featuring rotations, scaling, translations, and color transitions with customizable user controls.
 
-## Main Features:
+## Main Features
 
 - **Initial Rotations:** Gasket rotates 180° right and left, then returns to its original position.
 - **Enlargement:** Gasket grows and shrinks back to its original size.
@@ -20,7 +20,7 @@ The **3D Gasket TV Ident Animation** showcases interactive 3D transformations of
   - **Rotation around Y-axis**
   - **Rotation around Z-axis**
 
-## Additional Features:
+## Additional Features
 
 - **Subdivision:** Adjusts tetrahedron subdivision level via `NumTimesToSubdivide` slider.
 - **Colour Properties:** Choose from custom, monochrome, or pastel color schemes.
